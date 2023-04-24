@@ -1,0 +1,12 @@
+5 10 5
+Average runtime MIP: 0.178
+Average runtime DP: 0.0688
+5 20 5
+Average runtime MIP: 0.3136
+Average runtime DP: 3.53536
+10 10 5
+Average runtime MIP: 0.25672
+Average runtime DP: 0.853872
+10 20 5
+Average runtime MIP: 0.451544
+Average runtime DP: 7.95477

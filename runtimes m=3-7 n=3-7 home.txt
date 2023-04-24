@@ -1,0 +1,75 @@
+3 3 100
+Average runtime MIP: 0.31941
+Average runtime DP: 0.12851
+3 4 100
+Average runtime MIP: 0.37072
+Average runtime DP: 0.42099
+3 5 100
+Average runtime MIP: 0.35641
+Average runtime DP: 1.07675
+3 6 100
+Average runtime MIP: 0.44736
+Average runtime DP: 2.28554
+3 7 100
+Average runtime MIP: 0.48395
+Average runtime DP: 3.9298
+4 3 100
+Average runtime MIP: 0.4246
+Average runtime DP: 0.15679
+4 4 100
+Average runtime MIP: 0.4398
+Average runtime DP: 0.51422
+4 5 100
+Average runtime MIP: 0.45676
+Average runtime DP: 1.35885
+4 6 100
+Average runtime MIP: 0.56961
+Average runtime DP: 2.82652
+4 7 100
+Average runtime MIP: 0.57726
+Average runtime DP: 4.7995
+5 3 100
+Average runtime MIP: 0.56645
+Average runtime DP: 0.18642
+5 4 100
+Average runtime MIP: 0.53527
+Average runtime DP: 0.62865
+5 5 100
+Average runtime MIP: 0.49658
+Average runtime DP: 1.5887
+5 6 100
+Average runtime MIP: 0.49453
+Average runtime DP: 3.41936
+5 7 100
+Average runtime MIP: 0.61021
+Average runtime DP: 6.29866
+6 3 100
+Average runtime MIP: 0.47192
+Average runtime DP: 0.22524
+6 4 100
+Average runtime MIP: 0.53559
+Average runtime DP: 0.78154
+6 5 100
+Average runtime MIP: 0.55929
+Average runtime DP: 2.03164
+6 6 100
+Average runtime MIP: 0.58526
+Average runtime DP: 4.12786
+6 7 100
+Average runtime MIP: 0.61268
+Average runtime DP: 7.61987
+7 3 100
+Average runtime MIP: 0.46611
+Average runtime DP: 0.26932
+7 4 100
+Average runtime MIP: 0.6026
+Average runtime DP: 0.9219
+7 5 100
+Average runtime MIP: 0.51637
+Average runtime DP: 2.36376
+7 6 100
+Average runtime MIP: 0.62336
+Average runtime DP: 4.97102
+7 7 100
+Average runtime MIP: 0.65145
+Average runtime DP: 8.40901
