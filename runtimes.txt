@@ -1,3 +1,0 @@
-T T 16 16 16 16 16 24 24 24 24 24 32 32 32 32 32 40 40 40 40 40 48 48 48 48 48 
-alg alg MIP MIP MIP DP DP DS MIP MIP MIP DP DP DS MIP MIP MIP DP DP DS MIP MIP MIP DP DP DS MIP MIP MIP DP DP DS 
-m L avg std NO avg std DS avg std NO avg std DS avg std NO avg std DS avg std NO avg std DS avg std NO avg std DS 
